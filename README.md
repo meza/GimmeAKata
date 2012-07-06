@@ -1,6 +1,9 @@
 GimmeAKata
 ==========
 
+THE SIMPLEST AND DUMBEST IMPLEMENTATION i could release!
+Do not expect any subtle solutions.
+
 http://gimmeakata.herokuapp.com/
 
 This project should answer the question: Which Programming Kata should I write now, in which programming language.
