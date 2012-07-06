@@ -1,4 +1,4 @@
-require 'collection_of_strings'
+require File.dirname(__FILE__)+'/collection_of_strings.rb'
 
 class Langs < CollectionOfStrings
 

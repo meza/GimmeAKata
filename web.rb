@@ -1,6 +1,6 @@
 require 'sinatra'
-require 'langs'
-require 'katas'
+require File.dirname(__FILE__)+'/lib/langs.rb'
+require File.dirname(__FILE__)+'/lib/katas.rb'
 
 get '/' do
 	'<div id="kata">'+Katas.new.pickOne+'</div>' +
